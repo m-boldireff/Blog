@@ -18,6 +18,6 @@ theme:
 - netlify-cms
 hyde:
   sidebar:
-    sticky: true
+    sticky: false
   theme: ''
-  reverse: true
+  reverse: false
